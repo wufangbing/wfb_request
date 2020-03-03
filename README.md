@@ -13,8 +13,8 @@ import request from 'wfb_request';
 request()
 ```
 
-- [使用文档和测试用例](./doc/use/README.MD)
-- [二次开发文档](./doc/dev/README.MD)
+- [使用文档和测试用例](https://wufangbing.github.io/doc/use/)
+- [二次开发文档](https://wufangbing.github.io/doc/dev/)
 
 ## 交流 & 提问
 - 提问:https://github.com/wufangbing/wfb_request/issues
