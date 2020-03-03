@@ -7,8 +7,8 @@
 
 ## 快速使用
 
-- 使用文档
-- 二次开发文档
+- [使用文档和测试用例](./doc/use/README.MD)
+- [二次开发文档](./doc/dev/README.MD)
 
 ## 交流 & 提问
 https://github.com/wufangbing/wfb_request/issues
