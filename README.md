@@ -2,7 +2,7 @@
 基于TypeScript的前端请求
 
 ## 简介
-前端请求鸭
+前端请求鸭子
 
 ## 安装下载
 - 下载地址 https://github.com/wufangbing/wfb_request/releases
