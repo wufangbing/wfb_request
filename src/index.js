@@ -1,3 +1,7 @@
-export default function getHelloWorld () {
-	console.log('hello,world')
+export function getHello () {
+	console.log('hello')
+}
+
+export function getWorld () {
+	console.log('World')
 }

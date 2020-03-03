@@ -1,6 +1,6 @@
 {
   "name": "wfb_request",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "基于TypeScript的前端请求",
   "main": "src/index.js",
   "scripts": {
