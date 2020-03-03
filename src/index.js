@@ -1,1 +1,3 @@
-console.log('hello');
+export default function getHelloWorld () {
+	console.log('hello,world')
+}
